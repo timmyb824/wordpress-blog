@@ -1,0 +1,5 @@
+Archive/
+.env
+my.cnf.bak
+slack_urls
+.dockerignore

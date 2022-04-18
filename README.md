@@ -1,0 +1,1 @@
+The configuration used to get my [wordpress blog](blog.timothybryantjr.com) up and running using docker and docker-compose.
