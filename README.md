@@ -1,1 +1,1 @@
-The configuration used to get my [wordpress blog](https://www.blog.timothybryantjr.com) up and running using docker and docker-compose.
+The configuration needed to get a wordpress site up and running with docker and docker-compose. 
